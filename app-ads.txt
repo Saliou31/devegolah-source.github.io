@@ -10,5 +10,5 @@
 #
 # L'identifiant ci-dessous est celui de votre compte AdMob, extrait de l'ID
 # d'application du manifeste (ca-app-pub-8709027998162165~9329068369).
+# google.com, pub-8709027998162165, DIRECT, f08c47fec0942fa0
 google.com, pub-8709027998162165, DIRECT, f08c47fec0942fa0
-
